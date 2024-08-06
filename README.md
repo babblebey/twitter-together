@@ -29,4 +29,4 @@ You can use subfolders, e.g. `tweets/2020/01/hello-world.tweet`, as long as the 
 
 ## Questions?
 
-If you have any further questions or suggestions, please create an issue at [https://github.com/semantic-release/twitter-together/issues](https://github.com/semantic-release/twitter-together/issues)
+If you have any further questions or suggestions, please create an issue at [https://github.com/semantic-release/twitter-together/issues/new](https://github.com/semantic-release/twitter-together/issues/new)
